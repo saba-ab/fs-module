@@ -1,0 +1,11 @@
+FILE: README.md
+FILE: app.js
+DIR: folder1
+	DIR: folder1
+		FILE: helper.js
+		FILE: index.js
+	DIR: folder2
+		FILE: file1.txt
+DIR: folder2
+	FILE: file.js
+FILE: output.txt
